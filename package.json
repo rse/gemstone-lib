@@ -2,7 +2,7 @@
     "name":        "gemstone",
     "homepage":    "http://gemstonejs.com/",
     "description": "Gemstone Runtime Library",
-    "version":     "0.0.0",
+    "version":     "0.0.1",
     "license":     "MIT",
     "author": {
         "name":    "Ralf S. Engelschall",
