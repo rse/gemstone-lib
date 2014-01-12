@@ -1,15 +1,15 @@
 {
-    "name": "ducky",
-    "version": "2.0.2",
-    "description": "Duck-Typed Value Handling for JavaScript",
-    "main": "./lib/ducky.js",
-    "homepage": "http://duckyjs.com",
+    "name": "gemstone",
+    "version": "0.0.1",
+    "description": "Gemstone Runtime Library",
+    "main": "./lib/gemstone.js",
+    "homepage": "http://gemstonejs.com",
     "license": "MIT",
     "authors": [
         "Ralf S. Engelschall <rse@engelschall.com>"
     ],
     "keywords": [
-        "duck", "type", "test", "validate"
+        "gemstone", "runtime"
     ],
     "dependencies": {
     },
