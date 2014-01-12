@@ -1,4 +1,6 @@
-gemstone-lib
-============
 
-Gemstone Runtime Library (gemstone-lib)
+Gemstone
+========
+
+This is the Gemstone Runtime Library (Bower: "gemstone")
+
